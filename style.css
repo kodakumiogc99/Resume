@@ -36,23 +36,23 @@ pre {
 }
 
 h1{
-    font-size: 3em;
+    font-size: 2.5em;
     text-align: left;
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     padding-bottom: 0em;
 }
 
 h3 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin-top: 0em;
     margin-bottom: 0em;
 }
 
 #h3-job{
-    font-size:1.5em;
+    font-size:1.2em;
     margin-top: -1em;
     color: gray;
 
@@ -60,7 +60,7 @@ h3 {
 
 
 #p-year {
-    font-size: 1em;
+    font-size: 0.7em;
     color: gray;
 }
 
@@ -75,24 +75,29 @@ section {
 }
 
 p {
-    font-size: 1.2em;
+    font-size: .9em;
     margin-bottom: .2em auto;
     margin-top: 0em;
 }
 
 #first-h {
-    font-size: 1.2em;
+    font-size: 0.9em;
     margin: .2em auto;
 }
 
 #second-h {
-    font-size: 1.2em;
+    font-size: 0.9em;
     margin: 0em auto;
 }
 
 #bold-a {
-    font-size: 1.2em;
+    font-size: 0.9em;
     margin-bottom: .2em auto;
     margin-top: -1em;
     font-weight: bold;
+}
+
+li {
+    font-size: 0.9em;
+    margin: .2em auto;
 }
