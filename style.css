@@ -98,5 +98,7 @@ p {
 
 ul {
     font-size: 1.0em;
-    margin: .2em auto;
+    margin-top: .2em auto;
+    margin-bottom: .2em auto;
+    margin-left: -0.5em;
 }
