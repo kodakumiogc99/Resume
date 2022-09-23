@@ -36,7 +36,7 @@ pre {
 }
 
 h1{
-    font-size: 2.5em;
+    font-size: 2.0em;
     text-align: left;
 }
 
@@ -75,29 +75,29 @@ section {
 }
 
 p {
-    font-size: .9em;
+    font-size: 1.0em;
     margin-bottom: .2em auto;
     margin-top: 0em;
 }
 
 #first-h {
-    font-size: 0.9em;
+    font-size: 1.0em;
     margin: .2em auto;
 }
 
 #second-h {
-    font-size: 0.9em;
+    font-size: 1.0em;
     margin: 0em auto;
 }
 
 #bold-a {
-    font-size: 0.9em;
+    font-size: 1.0em;
     margin-bottom: .2em auto;
     margin-top: -1em;
     font-weight: bold;
 }
 
-li {
-    font-size: 0.9em;
+ul {
+    font-size: 1.0em;
     margin: .2em auto;
 }
