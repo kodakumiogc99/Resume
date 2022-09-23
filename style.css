@@ -27,6 +27,14 @@ pre {
     margin-left: 3em;
 }
 
+.myPhoto{
+    display: block;
+    margin-left: 1.5em;
+    margin-right:auto;
+    width: 65%;
+
+}
+
 h1{
     font-size: 3em;
     text-align: left;
