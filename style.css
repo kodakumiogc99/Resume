@@ -1,3 +1,7 @@
+pre {
+    white-space: pre-wrap;
+}
+
 .wrapper{
     display: flex;
     flex-wrap: wrap;
