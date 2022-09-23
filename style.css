@@ -7,7 +7,6 @@ pre {
     flex-wrap: wrap;
     flex-direction: row;
     font-family: 'Times New Roman', Tahome, Geneva, Verdana, sans-serif;
-    font-size: 16px;
     max-width: 960px;
     margin: auto;
 }
@@ -71,7 +70,7 @@ main {
 }
 
 section {
-    margin: atuo 1.1em 4em 2em;
+    margin: atuo 1em 4em 2em;
 }
 
 p {
@@ -81,23 +80,23 @@ p {
 }
 
 #first-h {
-    font-size: 1.1em;
+    font-size: 1.0em;
     margin: .2em auto;
 }
 
 #second-h {
-    font-size: 1.1em;
+    font-size: 1.0em;
     margin: 0em auto;
 }
 
 #bold-a {
-    font-size: 1.1em;
+    font-size: 1.0em;
     margin-bottom: .2em auto;
     margin-top: -1em;
     font-weight: bold;
 }
 
 ul {
-    font-size: 1.1em;
+    font-size: 1.0em;
     margin: .2em auto;
 }
